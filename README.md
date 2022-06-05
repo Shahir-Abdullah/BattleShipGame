@@ -3,3 +3,5 @@
 ![](board.jpg)
 ![](ship.png)
 
+# Play
+https://shahir-abdullah.github.io/BattleShipGame 
